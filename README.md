@@ -1,5 +1,5 @@
 # Youtube Together Streamer
-This is a code for a bot which allows you to watch youtube in discord!! Using this you can literally watch youtube with your friends in as muktiplayer vc on discord :)
+This is a code for a bot which allows you to watch youtube in discord!! Using this you can literally watch youtube with your friends in as multiplayer vc on discord :)
 
  # Setup
  Import the bot from GitHub to repl.it then just type out npm i in the console and but your bot token in client secrets.. You can also watch this **[Video](https://youtube.com)**
