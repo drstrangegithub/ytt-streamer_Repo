@@ -1,0 +1,26 @@
+{
+    "name": "ytt-streamerRepo",
+    "version": "1.0.0",
+    "description": "This is a code for a bot which allows you to watch youtube in discord!! Using this you can literally watch youtube with your friends in as multiplayer vc on discord :)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drstrangegithub/ytt-streamer_Repo.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/drstrangegithub/ytt-streamer_Repo/issues"
+    },
+    "homepage": "https://github.com/drstrangegithub/ytt-streamer_Repo#readme",
+    "dependencies": {
+        "discord.js": "^12.1.0",
+        "express": "^4.17.1",
+        "node-fetch": "^2.6.1"
+    }
+}
